@@ -62,7 +62,7 @@ Choose individual indicators
   - Society > Human development index    
 
 또는,   
-<https://github.com/yoonhohong/sdg/data>   
+<https://github.com/yoonhohong/sdg/tree/main/data>     
 
 ## 데이터 불러오기 
 폐기물 중 플라스틱 비율 
